@@ -1,1 +1,1 @@
-simplecodeeditor.pages.dev
+https://simplecodeeditor.pages.dev/
